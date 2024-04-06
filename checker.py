@@ -12,9 +12,20 @@ def can_scrape(url):
     except requests.RequestException:
         return True  # If there's an error, assume it's allowed
 
-# Example usage
-url_to_scrape = "https://example.com"
-if can_scrape(url_to_scrape):
-    print("You can scrape this URL.")
-else:
-    print("You cannot scrape this URL.")
+# List of URLs to check for scrapability
+urls_to_check = [
+    "https://www.capterra.com/360-degree-feedback-software/",
+    "https://www.example.com",
+    "https://www.somewebsite.com",
+    # Add more URLs as needed
+]
+
+# Open a file to write the results
+with open("scrapability_results.txt", "w") as file:
+    for url in urls_to_check:
+        if can_scrape(url):
+            file.write(f"{url}: You can scrape this URL.\n")
+        else:
+            file.write(f"{url}: You cannot scrape this URL.\n")
+
+print("Scrapability check completed. Results saved to scrapability_results.txt.")

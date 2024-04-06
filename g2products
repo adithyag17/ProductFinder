@@ -1,0 +1,693 @@
+{
+  "data": [
+    {
+      "id": "000168c9-a449-44da-8024-9cb947a07d31",
+      "type": "products",
+      "links": {
+        "self": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31"
+      },
+      "attributes": {
+        "product_type": "Software",
+        "name": "Simple Custom Reports for Jira",
+        "short_name": "Simple Custom Reports for Jira",
+        "domain": "simple-reports.com",
+        "slug": "simple-custom-reports-for-jira",
+        "description": "A powerful tool that allows you to create custom reports and gadgets for your team's kanban, scrum, or any other project management methodology with minimal configuration. With this app, you can instantly generate insightful and easy-to-use reports that give you a bird's eye view of your team's performance and progress, helping you make informed decisions and stay on top of your projects.\n\nOur app is designed to be user-friendly and intuitive, allowing you to quickly and easily configure the data you want to display and choose from a variety of chart types, including bar charts, pie charts, and line graphs. You can also customize the look and feel of your reports with a range of visual themes, making it easy to match your company's branding and style.\n\nWhether you're a project manager, team lead, or team member, our app for Jira is the perfect tool to help you stay organized, track progress, and drive results. Try it today and see how easy it is to get the insights you need to make your team more productive and successful.",
+        "detail_description": null,
+        "image_url": "https://images.g2crowd.com/uploads/product/image/9c7c0ba8f3a97526ddcf971168c2877b/c7eb8ce2-d7ee-4572-84df-02a56184395e.png",
+        "product_url": "https://www.simple-reports.com/about-agilis",
+        "review_count": 3,
+        "star_rating": 4,
+        "avg_rating": "8.0",
+        "public_detail_url": "https://www.g2.com/products/simple-custom-reports-for-jira/reviews",
+        "updated_at": "2024-03-19T08:03:55.820-05:00",
+        "created_at": "2023-05-08T07:22:23.071-05:00"
+      },
+      "relationships": {
+        "categories": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/relationships/categories",
+            "related": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/categories"
+          }
+        },
+        "survey_responses": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/relationships/survey-responses",
+            "related": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/survey-responses"
+          }
+        },
+        "competitors": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/relationships/competitors",
+            "related": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/competitors"
+          }
+        },
+        "main_category": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/relationships/main-category",
+            "related": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/main-category"
+          }
+        },
+        "vendor": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/relationships/vendor",
+            "related": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/vendor"
+          }
+        },
+        "product_rating": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/relationships/product-rating",
+            "related": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/product-rating"
+          }
+        },
+        "product_features": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/relationships/product-features",
+            "related": "https://data.g2.com/api/v1/products/000168c9-a449-44da-8024-9cb947a07d31/product-features"
+          }
+        }
+      }
+    },
+    {
+      "id": "0001747d-6236-45db-8f81-554c02f5968e",
+      "type": "products",
+      "links": {
+        "self": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e"
+      },
+      "attributes": {
+        "product_type": "Software",
+        "name": "Ampliz Healthcare Intelligence",
+        "short_name": "Ampliz Healthcare Intelligence",
+        "domain": "ampliz.com",
+        "slug": "ampliz-healthcare-intelligence",
+        "description": "Ampliz, the leading healthcare data provider, fulfills the data needs of Medical Device Manufacturing Companies, Pharmaceutical Companies, Healthcare Recruitment Firms, Medical Representatives, Diagnostic Centers, and all other healthcare-related subsidiaries.",
+        "detail_description": "A top-notch healthcare data provider sought after by industries and professionals to boom their businesses in the core regions of the United States. \n\nWhy Ampliz Healthcare?\nThe healthcare data curated by Ampliz provides instant access to high-quality target-specific, intent-based, and customized healthcare intelligence derived from real-time purchase footprints and advanced data mining techniques. \nGrow your business efficiently and effortlessly with proven, high-end intelligence on top healthcare center databases, technical and financial profiles of hospitals, clinical accounts, and verified leads on physicians and key medical personnel, including C-level contacts. \n\nWho is Ampliz Healthcare Intelligence for?\nAmpliz, the leading healthcare data provider, fulfills the data needs of Medical Device Manufacturing Companies, Pharmaceutical Companies, Healthcare Recruitment Firms, Medical Representatives, Diagnostic Centers, and all other healthcare-related subsidiaries. \nAmpliz connected 5000+ businesses including Microsoft, Autodesk, AvePoint, CNBC, and GE Healthcare to their buyers. Get a hold of the 2 Million+ accurate, well-segmented, comprehensive Ampliz healthcare database to draw an impact on your business in the US market.",
+        "image_url": "https://images.g2crowd.com/uploads/product/image/f1eda1779da6a1099c1e18c73965d91b/ampliz-healthcare-intelligence.jpg",
+        "product_url": "https://www.ampliz.com/healthcare-intelligence",
+        "review_count": 1,
+        "star_rating": 5,
+        "avg_rating": "10.0",
+        "public_detail_url": "https://www.g2.com/products/ampliz-healthcare-intelligence/reviews",
+        "updated_at": "2022-09-01T17:35:34.364-05:00",
+        "created_at": "2021-12-20T22:30:19.161-06:00"
+      },
+      "relationships": {
+        "categories": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/relationships/categories",
+            "related": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/categories"
+          }
+        },
+        "survey_responses": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/relationships/survey-responses",
+            "related": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/survey-responses"
+          }
+        },
+        "competitors": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/relationships/competitors",
+            "related": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/competitors"
+          }
+        },
+        "main_category": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/relationships/main-category",
+            "related": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/main-category"
+          }
+        },
+        "vendor": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/relationships/vendor",
+            "related": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/vendor"
+          }
+        },
+        "product_rating": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/relationships/product-rating",
+            "related": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/product-rating"
+          }
+        },
+        "product_features": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/relationships/product-features",
+            "related": "https://data.g2.com/api/v1/products/0001747d-6236-45db-8f81-554c02f5968e/product-features"
+          }
+        }
+      }
+    },
+    {
+      "id": "000254c8-bfd5-4863-86a3-5f3ada87c725",
+      "type": "products",
+      "links": {
+        "self": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725"
+      },
+      "attributes": {
+        "product_type": "Provider",
+        "name": "MAKRAM SRL",
+        "short_name": "MAKRAM SRL",
+        "domain": "ibm.com",
+        "slug": "makram-srl",
+        "description": null,
+        "detail_description": null,
+        "image_url": null,
+        "product_url": "https://www.ibm.com/partnerworld/bpdirectory/partner/6q05y/makram-srl/6q05z/",
+        "review_count": 0,
+        "star_rating": 0,
+        "avg_rating": "0.0",
+        "public_detail_url": "https://www.g2.com/products/makram-srl/reviews",
+        "updated_at": "2023-12-14T07:55:08.232-06:00",
+        "created_at": "2023-04-25T07:04:05.747-05:00"
+      },
+      "relationships": {
+        "categories": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/relationships/categories",
+            "related": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/categories"
+          }
+        },
+        "survey_responses": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/relationships/survey-responses",
+            "related": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/survey-responses"
+          }
+        },
+        "competitors": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/relationships/competitors",
+            "related": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/competitors"
+          }
+        },
+        "main_category": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/relationships/main-category",
+            "related": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/main-category"
+          }
+        },
+        "vendor": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/relationships/vendor",
+            "related": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/vendor"
+          }
+        },
+        "product_rating": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/relationships/product-rating",
+            "related": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/product-rating"
+          }
+        },
+        "product_features": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/relationships/product-features",
+            "related": "https://data.g2.com/api/v1/products/000254c8-bfd5-4863-86a3-5f3ada87c725/product-features"
+          }
+        }
+      }
+    },
+    {
+      "id": "000287be-63c4-4d05-a960-7a3264936d3a",
+      "type": "products",
+      "links": {
+        "self": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a"
+      },
+      "attributes": {
+        "product_type": "Software",
+        "name": "Isogen",
+        "short_name": "Isogen",
+        "domain": "hexagonppm.com",
+        "slug": "isogen",
+        "description": "Isogen is the world's leading solution for the total automation of piping isometric drawing production and is the Hexagon PPM standard system for drawing piping isometrics. Isogen is bundled with Intergraph Smart 3D, PDS, CADWorx, CAESAR II, and SmartPlant Spoolgen and SmartPlant Isometrics",
+        "detail_description": null,
+        "image_url": "https://images.g2crowd.com/uploads/product/image/8e3c1307a098940dd72a4db2e578be82/isogen.jpg",
+        "product_url": "https://hexagonppm.com/products/pfc-product-family/isogen",
+        "review_count": 13,
+        "star_rating": 4.5,
+        "avg_rating": "9.07692",
+        "public_detail_url": "https://www.g2.com/products/isogen/reviews",
+        "updated_at": "2024-03-23T15:35:52.093-05:00",
+        "created_at": "2018-05-15T13:10:40.829-05:00"
+      },
+      "relationships": {
+        "categories": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/relationships/categories",
+            "related": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/categories"
+          }
+        },
+        "survey_responses": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/relationships/survey-responses",
+            "related": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/survey-responses"
+          }
+        },
+        "competitors": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/relationships/competitors",
+            "related": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/competitors"
+          }
+        },
+        "main_category": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/relationships/main-category",
+            "related": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/main-category"
+          }
+        },
+        "vendor": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/relationships/vendor",
+            "related": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/vendor"
+          }
+        },
+        "product_rating": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/relationships/product-rating",
+            "related": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/product-rating"
+          }
+        },
+        "product_features": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/relationships/product-features",
+            "related": "https://data.g2.com/api/v1/products/000287be-63c4-4d05-a960-7a3264936d3a/product-features"
+          }
+        }
+      }
+    },
+    {
+      "id": "00032b56-f52f-4bd5-a677-7af7f2ff0c19",
+      "type": "products",
+      "links": {
+        "self": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19"
+      },
+      "attributes": {
+        "product_type": "Software",
+        "name": "GetJobsDone",
+        "short_name": "GetJobsDone",
+        "domain": "getjobsdone.nl",
+        "slug": "getjobsdone",
+        "description": "GetJobsDone is a platform with more than 10,000 ambitious young talents who carry out assignments for various clients. Working with GetJobsDone gives you the following:\n\n- Work based on output and get started immediately by means of an assignment agreement\n- Build a flexible pool of talented young professionals\n- Use the fresh perspective of young talents and get direct access to more than 10,000 employees of the future",
+        "detail_description": null,
+        "image_url": "https://images.g2crowd.com/uploads/product/image/c95c70d9f29c114fe7d7131434377921/getjobsdone.png",
+        "product_url": "https://www.getjobsdone.nl/en/",
+        "review_count": 0,
+        "star_rating": 0,
+        "avg_rating": "0.0",
+        "public_detail_url": "https://www.g2.com/products/getjobsdone/reviews",
+        "updated_at": "2023-12-11T01:19:28.375-06:00",
+        "created_at": "2023-02-16T06:26:06.235-06:00"
+      },
+      "relationships": {
+        "categories": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/relationships/categories",
+            "related": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/categories"
+          }
+        },
+        "survey_responses": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/relationships/survey-responses",
+            "related": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/survey-responses"
+          }
+        },
+        "competitors": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/relationships/competitors",
+            "related": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/competitors"
+          }
+        },
+        "main_category": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/relationships/main-category",
+            "related": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/main-category"
+          }
+        },
+        "vendor": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/relationships/vendor",
+            "related": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/vendor"
+          }
+        },
+        "product_rating": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/relationships/product-rating",
+            "related": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/product-rating"
+          }
+        },
+        "product_features": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/relationships/product-features",
+            "related": "https://data.g2.com/api/v1/products/00032b56-f52f-4bd5-a677-7af7f2ff0c19/product-features"
+          }
+        }
+      }
+    },
+    {
+      "id": "00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0",
+      "type": "products",
+      "links": {
+        "self": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0"
+      },
+      "attributes": {
+        "product_type": "Software",
+        "name": "IMSWARE.GO",
+        "short_name": "IMSWARE.GO",
+        "domain": "imsware.de",
+        "slug": "imsware-go",
+        "description": "IMSWARE Technology offers complete solution packages from consultation to turn-key installation, having all the tools to fulfill your various legal obligations e.g. operator liability, risk analysis etc.",
+        "detail_description": null,
+        "image_url": "https://images.g2crowd.com/uploads/product/image/2bf75d02ae6e583dfc28d9061dafc73c/imsware-go.jpg",
+        "product_url": "https://www.imsware.de/en/software/cafm-software-facility-management",
+        "review_count": 1,
+        "star_rating": 4.5,
+        "avg_rating": "9.0",
+        "public_detail_url": "https://www.g2.com/products/imsware-go/reviews",
+        "updated_at": "2022-11-23T07:20:17.870-06:00",
+        "created_at": "2019-02-26T18:53:33.699-06:00"
+      },
+      "relationships": {
+        "categories": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/relationships/categories",
+            "related": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/categories"
+          }
+        },
+        "survey_responses": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/relationships/survey-responses",
+            "related": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/survey-responses"
+          }
+        },
+        "competitors": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/relationships/competitors",
+            "related": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/competitors"
+          }
+        },
+        "main_category": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/relationships/main-category",
+            "related": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/main-category"
+          }
+        },
+        "vendor": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/relationships/vendor",
+            "related": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/vendor"
+          }
+        },
+        "product_rating": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/relationships/product-rating",
+            "related": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/product-rating"
+          }
+        },
+        "product_features": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/relationships/product-features",
+            "related": "https://data.g2.com/api/v1/products/00036fb9-b9e3-4ef6-8c60-e4996f7c2ee0/product-features"
+          }
+        }
+      }
+    },
+    {
+      "id": "0003e281-09bc-42e3-abd6-435bad4e41e0",
+      "type": "products",
+      "links": {
+        "self": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0"
+      },
+      "attributes": {
+        "product_type": "Software",
+        "name": "Keeper",
+        "short_name": "Keeper",
+        "domain": "keeper.app",
+        "slug": "keeper",
+        "description": "Keeper is an all-in-one app to streamline bookkeeping and client accounting services.\n \n\n Keeper sync directly to your client's QuickBooks file. This powers your custom-branded Client Portal, file reviews, management reporting, and workflow management.\n \n\n Stay on top of your work, get faster responses from your clients, and deliver reports they'll actually read. Try Keeper for free for 14 days, or schedule a customized demo to learn more.",
+        "detail_description": null,
+        "image_url": "https://images.g2crowd.com/uploads/product/image/75706edc705fb2a2fb5fd52dbafa7105/keeper.png",
+        "product_url": "https://www.keeper.app/features",
+        "review_count": 48,
+        "star_rating": 5,
+        "avg_rating": "9.97917",
+        "public_detail_url": "https://www.g2.com/products/keeper/reviews",
+        "updated_at": "2024-03-23T09:47:51.028-05:00",
+        "created_at": "2022-07-02T14:19:22.041-05:00"
+      },
+      "relationships": {
+        "categories": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/relationships/categories",
+            "related": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/categories"
+          }
+        },
+        "survey_responses": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/relationships/survey-responses",
+            "related": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/survey-responses"
+          }
+        },
+        "competitors": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/relationships/competitors",
+            "related": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/competitors"
+          }
+        },
+        "main_category": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/relationships/main-category",
+            "related": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/main-category"
+          }
+        },
+        "vendor": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/relationships/vendor",
+            "related": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/vendor"
+          }
+        },
+        "product_rating": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/relationships/product-rating",
+            "related": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/product-rating"
+          }
+        },
+        "product_features": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/relationships/product-features",
+            "related": "https://data.g2.com/api/v1/products/0003e281-09bc-42e3-abd6-435bad4e41e0/product-features"
+          }
+        }
+      }
+    },
+    {
+      "id": "00042459-9b33-404d-aa9b-7bc5d0712075",
+      "type": "products",
+      "links": {
+        "self": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075"
+      },
+      "attributes": {
+        "product_type": "Software",
+        "name": "EWCart",
+        "short_name": "EWCart",
+        "domain": "ewcart.io",
+        "slug": "ewcart",
+        "description": "EWCart is the ideal eCommerce platform for you, offering you what you need for your business, plus your very own team of web developers to build and manage your site at no extra cost.",
+        "detail_description": "Start, run, and grow your business with us. EWCart is the ideal eCommerce platform for you, offering you what you need for your business, plus your very own team of web developers to build and manage your site at no extra cost.\n\nGet a professionally developed eCommerce website – for free. EWCart gives you the tools you need to make your business a success, without any hidden costs. We understand the struggles of small businesses, so we strive to help all our customers avoid them. With just $29 in maintenance fees and a free, full-customizable website setup, you can start building your business today. Add to that your own dedicated in-house development team at no extra charge and you have a recipe for success.\n\nYou choose us but we find you because sellers like you are the reason for our existence. We eliminate the need for hiring a programmer even after paying the fees of an eCommerce platform. With us, everything comes in a single package and at a very affordable price.",
+        "image_url": "https://images.g2crowd.com/uploads/product/image/0567667e236134ce3fa2ecd2ca826399/ewcart.png",
+        "product_url": "https://www.ewcart.io/pricing/",
+        "review_count": 1,
+        "star_rating": 3.5,
+        "avg_rating": "7.0",
+        "public_detail_url": "https://www.g2.com/products/ewcart/reviews",
+        "updated_at": "2024-02-07T08:00:40.001-06:00",
+        "created_at": "2020-01-25T10:46:58.050-06:00"
+      },
+      "relationships": {
+        "categories": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/relationships/categories",
+            "related": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/categories"
+          }
+        },
+        "survey_responses": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/relationships/survey-responses",
+            "related": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/survey-responses"
+          }
+        },
+        "competitors": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/relationships/competitors",
+            "related": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/competitors"
+          }
+        },
+        "main_category": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/relationships/main-category",
+            "related": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/main-category"
+          }
+        },
+        "vendor": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/relationships/vendor",
+            "related": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/vendor"
+          }
+        },
+        "product_rating": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/relationships/product-rating",
+            "related": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/product-rating"
+          }
+        },
+        "product_features": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/relationships/product-features",
+            "related": "https://data.g2.com/api/v1/products/00042459-9b33-404d-aa9b-7bc5d0712075/product-features"
+          }
+        }
+      }
+    },
+    {
+      "id": "00057b36-f5ad-4d49-ad59-1dca5949f477",
+      "type": "products",
+      "links": {
+        "self": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477"
+      },
+      "attributes": {
+        "product_type": "Software",
+        "name": "OKAMSZ IT SOLUTIONS",
+        "short_name": "OKAMSZ IT SOLUTIONS",
+        "domain": "okamszitsolutions.in",
+        "slug": "okamsz-it-solutions",
+        "description": "OKAMSZ IT SOLUTIONS is a leading web application development company located in Trichy. Established by a group of well experienced software enthusiasts with great vision and knowledge in IT industry keeping digital marketing as focus. Our team has Indispensable knowledge in Mobile application development, Search Engine Optimization, eCommerce development, conversion optimization, custom application development, Search Engine Marketing and Info-graphics. Various software and tools are to build sites and applications for better results and ease of use. We solve complex problems at ease.We are Confined to provide best quality outputs adhering to customer’s expectation, we always love to meet challenging customer requirements. The project team consists of full-time resources like analysts, designers, programmers, testers, etc., to work on projects.",
+        "detail_description": null,
+        "image_url": null,
+        "product_url": "https://www.okamszitsolutions.in",
+        "review_count": 0,
+        "star_rating": 0,
+        "avg_rating": "0.0",
+        "public_detail_url": "https://www.g2.com/products/okamsz-it-solutions/reviews",
+        "updated_at": "2022-09-01T17:35:23.197-05:00",
+        "created_at": "2021-10-06T22:12:46.062-05:00"
+      },
+      "relationships": {
+        "categories": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/relationships/categories",
+            "related": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/categories"
+          }
+        },
+        "survey_responses": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/relationships/survey-responses",
+            "related": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/survey-responses"
+          }
+        },
+        "competitors": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/relationships/competitors",
+            "related": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/competitors"
+          }
+        },
+        "main_category": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/relationships/main-category",
+            "related": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/main-category"
+          }
+        },
+        "vendor": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/relationships/vendor",
+            "related": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/vendor"
+          }
+        },
+        "product_rating": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/relationships/product-rating",
+            "related": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/product-rating"
+          }
+        },
+        "product_features": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/relationships/product-features",
+            "related": "https://data.g2.com/api/v1/products/00057b36-f5ad-4d49-ad59-1dca5949f477/product-features"
+          }
+        }
+      }
+    },
+    {
+      "id": "0005d822-9d18-4579-8dfe-2bf048d3d6ff",
+      "type": "products",
+      "links": {
+        "self": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff"
+      },
+      "attributes": {
+        "product_type": "Provider",
+        "name": "Savvycom Software",
+        "short_name": "Savvycom Software",
+        "domain": "savvycomsoftware.com",
+        "slug": "savvycom-software",
+        "description": "Established in 2009, we’ve consistently ranked among Vietnam’s top 10 software development and IT outsourcing companies. Trusted by global enterprises, we now have offices in multiple countries, providing tailored solutions and IT team hiring services to address IT challenges and lower expenses.",
+        "detail_description": "Established in 2009, we’ve consistently ranked among Vietnam’s top 10 software development and IT outsourcing companies. Trusted by global enterprises, we now have offices in multiple countries, providing tailored solutions and IT team hiring services to address IT challenges and lower expenses.",
+        "image_url": "https://images.g2crowd.com/uploads/product/image/1dbbde09cfc88883c5dd6805cb38e456/savvycom-software.jpg",
+        "product_url": "https://www.savvycomsoftware.com",
+        "review_count": 0,
+        "star_rating": 0,
+        "avg_rating": "0.0",
+        "public_detail_url": "https://www.g2.com/products/savvycom-software/reviews",
+        "updated_at": "2024-03-21T18:30:01.267-05:00",
+        "created_at": "2017-05-04T10:48:56.988-05:00"
+      },
+      "relationships": {
+        "categories": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/relationships/categories",
+            "related": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/categories"
+          }
+        },
+        "survey_responses": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/relationships/survey-responses",
+            "related": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/survey-responses"
+          }
+        },
+        "competitors": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/relationships/competitors",
+            "related": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/competitors"
+          }
+        },
+        "main_category": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/relationships/main-category",
+            "related": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/main-category"
+          }
+        },
+        "vendor": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/relationships/vendor",
+            "related": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/vendor"
+          }
+        },
+        "product_rating": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/relationships/product-rating",
+            "related": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/product-rating"
+          }
+        },
+        "product_features": {
+          "links": {
+            "self": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/relationships/product-features",
+            "related": "https://data.g2.com/api/v1/products/0005d822-9d18-4579-8dfe-2bf048d3d6ff/product-features"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "record_count": 167006,
+    "page_count": 16701
+  },
+  "links": {
+    "first": "https://data.g2.com/api/v1/products?page%5Bnumber%5D=1&page%5Bsize%5D=10",
+    "next": "https://data.g2.com/api/v1/products?page%5Bnumber%5D=2&page%5Bsize%5D=10",
+    "last": "https://data.g2.com/api/v1/products?page%5Bnumber%5D=16701&page%5Bsize%5D=10"
+  }
+}
