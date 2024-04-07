@@ -15,7 +15,7 @@ with open(file_path, 'r') as file:
 # Initialize the Chrome webdriver
 driver = webdriver.Chrome()
 
-def scrape_website(url, depth=1, max_depth=3):
+def scrape_website(url, depth=1, max_depth=5):
     if depth > max_depth:
         return
     if url in scraped_urls:

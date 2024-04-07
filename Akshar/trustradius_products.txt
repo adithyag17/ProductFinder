@@ -1,0 +1,762 @@
+A/B Testing Tools:
+    Optimizely Web Experimentation: /products/optimizely-web-experimentation/reviews
+    Monetate: /products/monetate/reviews
+    Oracle Marketing: /products/oracle-marketing/reviews
+    Optimizely Web Experimentation: /products/optimizely-web-experimentation/reviews
+    Coveo Qubit: /products/coveo-qubit/reviews
+    Monetate: /products/monetate/reviews
+    VWO: /products/vwo/reviews
+    Dynamic Yield: /products/dynamic-yield/reviews
+    Kameleoon: /products/kameleoon/reviews
+    Chartbeat: /products/chartbeat/reviews
+    AB Tasty: /products/ab-tasty/reviews
+    unbounce: /products/unbounce/reviews
+    Adobe Target: /products/adobe-target/reviews
+    Instapage: /products/instapage/reviews
+    LaunchDarkly: /products/launchdarkly/reviews
+    Convert Experiences: /products/convert-experiments/reviews
+    Webtrends Optimize: /products/webtrends-optimize/reviews
+    Contentsquare: /products/contentsquare/reviews
+    Google Content Experiments (discontinued): /products/google-content-experiments/reviews
+    Optimizely Feature Experimentation: /products/optimizely-feature-experimentation/reviews
+    SiteSpect: /products/sitespect/reviews
+    Google Optimize: /products/google-optimize/reviews
+    GTmetrix: /products/gtmetrix/reviews
+    Airship: /products/airship/reviews
+    AppMetrica: /products/yandex-appmetrica/reviews
+    Leanplum: /products/leanplum/reviews
+    Bound: /products/bound/reviews
+Accounting Software:
+    Sage Intacct: /products/intacct/reviews
+    Acumatica: /products/acumatica/reviews
+    MIP Fund Accounting: /products/mip-fund-accounting/reviews
+    Xero: /products/xero/reviews
+    BlackLine: /products/blackline/reviews
+    Sage Intacct: /products/intacct/reviews
+    Acumatica: /products/acumatica/reviews
+    MIP Fund Accounting: /products/mip-fund-accounting/reviews
+    NetSuite ERP: /products/netsuite-erp/reviews
+    Oracle Fusion Cloud ERP: /products/oracle-fusion-cloud-erp/reviews
+    BlackLine: /products/blackline/reviews
+    Xero: /products/xero/reviews
+    QuickBooks Desktop Enterprise: /products/quickbooks-desktop-enterprise/reviews
+    QuickBooks Online Advanced: /products/quickbooks-online-advanced/reviews
+    QuickBooks Online: /products/quickbooks-online/reviews
+    Blackbaud Financial Edge NXT: /products/blackbaud-financial-edge-nxt/reviews
+    QuickBooks Desktop Pro: /products/quickbooks-desktop-pro/reviews
+    CMiC Construction Platform: /products/cmic-construction-platform/reviews
+    Wave Accounting: /products/wave-accounting/reviews
+    Vista: /products/vista-by-viewpoint/reviews
+    FreshBooks: /products/freshbooks/reviews
+    QuickBooks Desktop Premier: /products/quickbooks-desktop-premier/reviews
+    Microsoft Dynamics GP: /products/microsoft-dynamics-gp/reviews
+    Oracle Fusion Cloud Enterprise Performance Management: /products/oracle-enterprise-performance-management/reviews
+    SAP Business One: /products/sap-business-one/reviews
+    Sage Accounting: /products/sage-accounting/reviews
+    Sage 50cloud Accounting: /products/sage-50cloud-accounting/reviews
+    QuickBooks Desktop for Mac: /products/quickbooks-desktop-for-mac/reviews
+    Oracle JD Edwards EnterpriseOne: /products/oracle-jd-edwards-enterpriseone/reviews
+    Zoho Books: /products/zoho-books/reviews
+Ad Serving & Retargeting Platforms:
+    Foundry ABM: /products/foundry-abm/reviews
+    Google Ads: /products/google-ads/reviews
+    Google Ads: /products/google-ads/reviews
+    AdRoll: /products/adroll/reviews
+    Foundry ABM: /products/foundry-abm/reviews
+    LinkedIn Marketing Solutions: /products/linkedin-marketing-solutions/reviews
+    Google Marketing Platform: /products/google-marketing-platform/reviews
+    Twitter Ads: /products/twitter-ads/reviews
+    Google Ad Manager: /products/google-ad-manager/reviews
+    Marin Software: /products/marin-software/reviews
+    Terminus ABM Platform: /products/terminus-abm-platform/reviews
+    RollWorks: /products/rollworks/reviews
+    Skai: /products/skai/reviews
+    Outbrain: /products/outbrain/reviews
+    Adobe Advertising Cloud: /products/adobe-advertising-cloud/reviews
+    AppNexus: /products/appnexus/reviews
+    Acquisio: /products/acquisio/reviews
+    StackAdapt: /products/stackadapt/reviews
+    OpenX: /products/openx/reviews
+    Basis DSP: /products/basis-dsp/reviews
+    Yahoo DSP: /products/yahoo-dsp/reviews
+    TubeMogul (discontinued): /products/tubemogul/reviews
+    MediaMath: /products/mediamath/reviews
+    Sizmek Ad Suite: /products/sizmek-ad-suite/reviews
+    Post Affiliate Pro: /products/post-affiliate-pro/reviews
+    The Trade Desk: /products/the-trade-desk/reviews
+    Bizo / LinkedIn Lead Accelerator (Discontinued): /products/bizo-linkedin-lead-accelerator/reviews
+All-in-One Marketing Platforms:
+    monday marketer: /products/monday-marketer/reviews
+    Constant Contact Lead Gen & CRM: /products/constant-contact-lead-gen-crm/reviews
+    OutboundEngine: /products/outboundengine/reviews
+    Keap: /products/keap/reviews
+    Mailchimp: /products/mailchimp/reviews
+    HubSpot Marketing Hub: /products/hubspot-marketing-hub/reviews
+    Constant Contact Lead Gen & CRM: /products/constant-contact-lead-gen-crm/reviews
+    Mailchimp: /products/mailchimp/reviews
+    Keap: /products/keap/reviews
+    Constant Contact: /products/constant-contact/reviews
+    OutboundEngine: /products/outboundengine/reviews
+    monday marketer: /products/monday-marketer/reviews
+    Kentico Xperience: /products/kentico/reviews
+    BenchmarkONE: /products/benchmarkone/reviews
+    Solutionreach: /products/solutionreach/reviews
+    GoSquared: /products/gosquared/reviews
+    LocaliQ: /products/localiq/reviews
+    Wishpond Propel IQ: /products/wishpond-propel-iq/reviews
+    Spokal: /products/spokal/reviews
+    Thryv: /products/thryv/reviews
+    emfluence Marketing Platform: /products/emfluence-marketing-platform/reviews
+    Epom Ad Server: /products/epom-ad-server/reviews
+    Jumplead: /products/jumplead/reviews
+    Experiture: /products/experiture-marketing-platform/reviews
+    zigihub: /products/zigihub/reviews
+    SeoSamba Marketing Operating System: /products/seosamba-marketing-operating-system/reviews
+    Signpost: /products/signpost/reviews
+    LeadsPedia: /products/leadspedia/reviews
+    FieldRoutes: /products/fieldroutes/reviews
+    HighLevel: /products/highlevel/reviews
+Applicant Tracking Systems (ATS):
+    Rippling: /products/rippling/reviews
+    SAP SuccessFactors: /products/sap-successfactors/reviews
+    Greenhouse: /products/greenhouse/reviews
+    ADP Workforce Now: /products/adp-workforce-now/reviews
+    Paylocity: /products/paylocity/reviews
+    ADP Workforce Now: /products/adp-workforce-now/reviews
+    Paylocity: /products/paylocity/reviews
+    Rippling: /products/rippling/reviews
+    Dayforce: /products/dayforce/reviews
+    SAP SuccessFactors: /products/sap-successfactors/reviews
+    Paycom: /products/paycom/reviews
+    Cornerstone OnDemand: /products/cornerstone-ondemand/reviews
+    Oracle Fusion Cloud HCM: /products/oracle-fusion-cloud-hcm/reviews
+    isolved: /products/isolved/reviews
+    Ascentis (discontinued): /products/ascentis/reviews
+    JobDiva: /products/jobdiva/reviews
+    iCIMS: /products/icims/reviews
+    Greenhouse: /products/greenhouse/reviews
+    Jotform: /products/jotform/reviews
+    SmartRecruiters: /products/smartrecruiters/reviews
+    BambooHR: /products/bamboohr/reviews
+    Workday HCM: /products/workday-hcm/reviews
+    Jobvite: /products/jobvite/reviews
+    Bullhorn ATS & CRM: /products/bullhorn-crm/reviews
+    LinkedIn Talent Hub: /products/linkedin-talent-hub/reviews
+    Ceipal ATS: /products/ceipal-applicant-tracking-system/reviews
+    JazzHR: /products/jazz-hr/reviews
+    Arcoro HR: /products/arcoro-hr/reviews
+    PCRecruiter: /products/pcrecruiter/reviews
+    Zoho Recruit: /products/zoho-recruit/reviews
+Business Intelligence (BI) Tools:
+    Sigma: /products/sigma-computing/reviews
+    Spotfire: /products/spotfire/reviews
+    SAP Analytics Cloud: /products/sap-analytics-cloud/reviews
+    GoodData: /products/gooddata/reviews
+    IBM Cognos Analytics: /products/ibm-cognos-analytics/reviews
+    Spotfire: /products/spotfire/reviews
+    Qlik Sense: /products/qlik-sense/reviews
+    SAP Analytics Cloud: /products/sap-analytics-cloud/reviews
+    Tableau Desktop: /products/tableau-desktop/reviews
+    Sigma: /products/sigma-computing/reviews
+    SAP Crystal: /products/sap-crystal/reviews
+    Microsoft Power BI: /products/microsoft-power-bi/reviews
+    IBM Cognos Analytics: /products/ibm-cognos-analytics/reviews
+    TIBCO Jaspersoft: /products/jaspersoft/reviews
+    Zoho Analytics: /products/zoho-analytics/reviews
+    Tableau Server: /products/tableau-server/reviews
+    SAP Lumira Discovery: /products/sap-lumira-discovery/reviews
+    Infor Birst: /products/infor-birst/reviews
+    Looker: /products/looker/reviews
+    QlikView: /products/qlikview/reviews
+    GoodData: /products/gooddata/reviews
+    ThoughtSpot: /products/thoughtspot/reviews
+    Entrinsik Informer: /products/entrinsik-informer/reviews
+    MS SharePoint / SQL: /products/ms-sharepoint-sql/reviews
+    Microsoft BI (MSBI): /products/microsoft-bi/reviews
+    Domo: /products/domo/reviews
+    SAP BusinessObjects Business Intelligence: /products/sap-businessobjects-business-intelligence/reviews
+    Tableau Cloud: /products/tableau-cloud/reviews
+    Google Charts: /products/google-charts/reviews
+    Sisense: /products/sisense/reviews
+Cloud Storage Systems and Companies:
+    Druva Data Resiliency Cloud: /products/druva-cloud-platform/reviews
+    Linode: /products/linode/reviews
+    IBM Cloud Object Storage: /products/ibm-cloud-object-storage/reviews
+    Google Drive: /products/google-drive/reviews
+    Dropbox: /products/dropbox/reviews
+    Druva Data Resiliency Cloud: /products/druva-cloud-platform/reviews
+    Linode: /products/linode/reviews
+    Google Drive: /products/google-drive/reviews
+    Box: /products/box/reviews
+    IBM Cloud Object Storage: /products/ibm-cloud-object-storage/reviews
+    Dropbox Business: /products/dropbox-business/reviews
+    OneDrive: /products/onedrive/reviews
+    Microsoft 365 Business Premium: /products/microsoft-365-business-premium/reviews
+    ShareFile: /products/sharefile/reviews
+    Apple iCloud: /products/apple-icloud/reviews
+    IDrive Online Backup and Object Storage e2: /products/idrive/reviews
+    Egnyte: /products/egnyte/reviews
+    Amazon Drive (discontinued): /products/amazon-cloud-drive/reviews
+    MediaFire: /products/mediafire/reviews
+    IBM Cloud Block Storage: /products/ibm-cloud-block-storage/reviews
+    ownCloud: /products/owncloud/reviews
+    Nextcloud: /products/nextcloud/reviews
+    Azure Backup: /products/azure-backup/reviews
+    WeTransfer: /products/wetransfer/reviews
+    pCloud: /products/pcloud/reviews
+    Acronis Advanced Backup: /products/acronis-advanced-backup/reviews
+    SugarSync: /products/sugarsync/reviews
+    Telnyx: /products/telnyx/reviews
+    Revver: /products/revver/reviews
+Collaboration Tools:
+    Bloomfire: /products/bloomfire/reviews
+    Quickbase: /products/quick-base/reviews
+    Miro: /products/miro/reviews
+    Slack: /products/slack/reviews
+    Mattermost: /products/mattermost/reviews
+    Miro: /products/miro/reviews
+    monday.com: /products/monday/reviews
+    Webex Meetings: /products/webex-meetings/reviews
+    Zoom: /products/zoom/reviews
+    Wrike: /products/wrike/reviews
+    Webex App: /products/webex-app/reviews
+    ClickUp: /products/clickup/reviews
+    Quickbase: /products/quick-base/reviews
+    Genesys Cloud CX: /products/genesys-cloud-cx/reviews
+    Slack: /products/slack/reviews
+    Adobe Workfront: /products/adobe-workfront/reviews
+    Microsoft Teams: /products/microsoft-teams/reviews
+    Airtable: /products/airtable/reviews
+    Trello: /products/trello/reviews
+    Google Drive: /products/google-drive/reviews
+    Skype for Business, now part of Microsoft Teams: /products/skype-for-business/reviews
+    Asana: /products/asana/reviews
+    SharePoint: /products/microsoft-sharepoint/reviews
+    Planview ProjectPlace: /products/projectplace/reviews
+    Bloomfire: /products/bloomfire/reviews
+    Box: /products/box/reviews
+    Basecamp: /products/basecamp/reviews
+    Jotform: /products/jotform/reviews
+    HipChat (discontinued): /products/hipchat/reviews
+    Dropbox Business: /products/dropbox-business/reviews
+Content Management Systems (CMS):
+    Paligo: /products/paligo/reviews
+    Image Relay: /products/image-relay/reviews
+    WebWave: /products/webwave/reviews
+    Optimizely Content Management System: /products/optimizely-content-cloud/reviews
+    WordPress VIP: /products/wordpress-vip/reviews
+    SharePoint: /products/microsoft-sharepoint/reviews
+    Progress Sitefinity: /products/progress-sitefinity/reviews
+    WordPress: /products/wordpress/reviews
+    Optimizely Content Management System: /products/optimizely-content-cloud/reviews
+    Bloomreach Commerce Experience Cloud: /products/bloomreach-commerce-experience-cloud/reviews
+    Acquia Digital Experience Platform: /products/acquia-digital-experience-platform/reviews
+    Wix: /products/wix/reviews
+    Squarespace: /products/squarespace/reviews
+    Adobe Experience Manager: /products/adobe-experience-manager/reviews
+    Magnolia: /products/magnolia/reviews
+    Drupal: /products/drupal/reviews
+    Joomla: /products/joomla/reviews
+    ExpressionEngine: /products/expressionengine/reviews
+    Concrete CMS: /products/concrete-cms/reviews
+    WebWave: /products/webwave/reviews
+    Cascade CMS: /products/cascade-cms/reviews
+    Jahia Digital Experience Platform: /products/jahia/reviews
+    Square Online: /products/square-online/reviews
+    Paligo: /products/paligo/reviews
+    Crownpeak CMS: /products/crownpeak-cms/reviews
+    Image Relay: /products/image-relay/reviews
+    Sitecore Experience Manager: /products/sitecore-experience-manager/reviews
+    Elementor: /products/elementor/reviews
+    Salesforce CMS: /products/salesforce-cms/reviews
+    Tridion: /products/tridion/reviews
+Corporate Learning Management Systems:
+    Tovuti LMS: /products/tovuti-lms/reviews
+    Engagedly: /products/engagedly/reviews
+    Skilljar’s Customer Education LMS Platform: /products/skilljar/reviews
+    Absorb LMS: /products/absorb-lms/reviews
+    Rippling: /products/rippling/reviews
+    ADP Workforce Now: /products/adp-workforce-now/reviews
+    Paylocity: /products/paylocity/reviews
+    Rippling: /products/rippling/reviews
+    Dayforce: /products/dayforce/reviews
+    SAP SuccessFactors: /products/sap-successfactors/reviews
+    Paycom: /products/paycom/reviews
+    Cornerstone OnDemand: /products/cornerstone-ondemand/reviews
+    Adobe Learning Manager: /products/adobe-learning-manager/reviews
+    Litmos: /products/litmos/reviews
+    Seismic Learning: /products/seismic-learning/reviews
+    Skilljar’s Customer Education LMS Platform: /products/skilljar/reviews
+    Moodle: /products/moodle/reviews
+    Blackboard Learn by Anthology: /products/blackboard-learn/reviews
+    Absorb LMS: /products/absorb-lms/reviews
+    Saba Cloud: /products/saba/reviews
+    Arcoro HR: /products/arcoro-hr/reviews
+    D2L Brightspace: /products/brightspace/reviews
+    Bridge Learning Platform: /products/bridge-learning-platform/reviews
+    PiiQ by Cornerstone: /products/cornerstone-piiq/reviews
+    Schoox: /products/schoox/reviews
+    LinkedIn Learning (Lynda.com): /products/linkedin-learning-lynda-com/reviews
+    Tovuti LMS: /products/tovuti-lms/reviews
+    iSpring Learn: /products/ispring-learn/reviews
+    PeopleFluent: /products/peoplefluent/reviews
+    Auzmor Learn: /products/auzmor-learn/reviews
+Customer Relationship Management (CRM) Software:
+    Insightly: /products/insightly/reviews
+    HubSpot CRM: /products/hubspot-crm/reviews
+    BQE CORE: /products/bqe-core/reviews
+    Constant Contact Lead Gen & CRM: /products/constant-contact-lead-gen-crm/reviews
+    Salesforce Sales Cloud: /products/salesforce-sales-cloud/reviews
+    HubSpot CRM: /products/hubspot-crm/reviews
+    ActiveCampaign: /products/activecampaign/reviews
+    Constant Contact Lead Gen & CRM: /products/constant-contact-lead-gen-crm/reviews
+    Insightly: /products/insightly/reviews
+    Salesforce Sales Cloud: /products/salesforce-sales-cloud/reviews
+    Zoho CRM: /products/zoho-crm/reviews
+    Keap: /products/keap/reviews
+    BQE CORE: /products/bqe-core/reviews
+    SAP Sales Cloud: /products/sap-sales-cloud/reviews
+    Microsoft Dynamics 365: /products/microsoft-dynamics-365/reviews
+    Pipedrive: /products/pipedrive/reviews
+    monday sales CRM: /products/monday-sales-crm/reviews
+    Sugar Sell (SugarCRM): /products/sugar-sell/reviews
+    Creatio: /products/creatio/reviews
+    Freshsales: /products/freshsales/reviews
+    Flowlu: /products/flowlu/reviews
+    Kintone: /products/kintone/reviews
+    Salesmate: /products/salesmate/reviews
+    WORKetc: /products/worketc/reviews
+    LeadSquared: /products/leadsquared/reviews
+    Less Annoying CRM: /products/less-annoying-crm/reviews
+    Oracle Sales: /products/oracle-sales/reviews
+    Kustomer: /products/kustomer/reviews
+    Blackbaud CRM: /products/blackbaud-crm/reviews
+    Really Simple Systems: /products/really-simple-systems/reviews
+Email Marketing Software:
+    SMTP2GO: /products/smtp2go/reviews
+    Litmus: /products/litmus/reviews
+    Klaviyo: /products/klaviyo/reviews
+    Intercom: /products/intercom/reviews
+    Iterable: /products/iterable/reviews
+    ActiveCampaign: /products/activecampaign/reviews
+    HubSpot Marketing Hub: /products/hubspot-marketing-hub/reviews
+    Constant Contact Lead Gen & CRM: /products/constant-contact-lead-gen-crm/reviews
+    Mailchimp: /products/mailchimp/reviews
+    Salesforce Marketing Cloud: /products/salesforce-marketing-cloud/reviews
+    Litmus: /products/litmus/reviews
+    Intercom: /products/intercom/reviews
+    Oracle Marketing: /products/oracle-marketing/reviews
+    Act-On: /products/act-on/reviews
+    Keap: /products/keap/reviews
+    Brevo: /products/brevo/reviews
+    Constant Contact: /products/constant-contact/reviews
+    Gist: /products/gist/reviews
+    SMTP2GO: /products/smtp2go/reviews
+    Klaviyo: /products/klaviyo/reviews
+    Bronto Marketing Platform (discontinued): /products/bronto-marketing-platform/reviews
+    Iterable: /products/iterable/reviews
+    Twilio SendGrid: /products/twilio-sendgrid/reviews
+    MailerLite: /products/mailerlite/reviews
+    Braze: /products/braze/reviews
+    AdRoll: /products/adroll/reviews
+    Kissmetrics: /products/kissmetrics/reviews
+    iContact: /products/icontact/reviews
+    Robly: /products/robly/reviews
+    Acoustic Campaign: /products/acoustic-campaign/reviews
+Fraud Detection Software:
+    Riskified: /products/riskified/reviews
+    Midigator, an Equifax Company: /products/midigator/reviews
+    D&B Finance Analytics: /products/dnb-finance-analytics/reviews
+    D&B Finance Analytics: /products/dnb-finance-analytics/reviews
+    Riskified: /products/riskified/reviews
+    Treasury Intelligence Solutions (TIS): /products/treasury-intelligence-solutions-tis/reviews
+    F5 Distributed Cloud Bot Defense: /products/shape-security/reviews
+    Midigator, an Equifax Company: /products/midigator/reviews
+    ClickGUARD: /products/clickguard/reviews
+    Trust Swiftly: /products/trust-swiftly/reviews
+    Kount, an Equifax company: /products/kount-fraud-detection-software/reviews
+    SEON. Fraud Fighters: /products/seon-fraud-fighters/reviews
+    NICE Actimize: /products/nice-actimize/reviews
+    Signifyd Commerce Protection Platform: /products/signifyd-commerce-protection-platform/reviews
+    NameScan: /products/namescan/reviews
+    CGI HotScan360: /products/cgi-hotscan360/reviews
+    CSI WatchDOG: /products/csi-watchdog/reviews
+    IBM Trusteer: /products/ibm-trusteer/reviews
+    TrustID: /products/trustid/reviews
+    Risk Proof: /products/pwc-risk-proof/reviews
+    F5 Distributed Cloud Authentication Intelligence: /products/f5-distributed-cloud-authentication-intelligence/reviews
+    Signzy: /products/signzy/reviews
+    iDenfy: /products/idenfy/reviews
+    AppZen: /products/appzen/reviews
+    TransUnion TruValidate: /products/transunion-truvalidate/reviews
+    Email Shield: /products/fraud-net-email-sheild/reviews
+    Transmit Security CIAM Platform: /products/transmit-security/reviews
+    Coinbase Tracer: /products/coinbase-tracer/reviews
+HR Management Software:
+    Rippling: /products/rippling/reviews
+    RUN Powered by ADP®: /products/adp-run/reviews
+    BQE CORE: /products/bqe-core/reviews
+    SAP SuccessFactors: /products/sap-successfactors/reviews
+    UKG Ready: /products/ukg-ready/reviews
+    ADP Workforce Now: /products/adp-workforce-now/reviews
+    UKG Pro: /products/ukg-pro/reviews
+    Paylocity: /products/paylocity/reviews
+    TriNet: /products/trinet/reviews
+    Rippling: /products/rippling/reviews
+    Dayforce: /products/dayforce/reviews
+    SAP SuccessFactors: /products/sap-successfactors/reviews
+    Paycom: /products/paycom/reviews
+    Paycor: /products/paycor/reviews
+    Paychex Flex: /products/paychex-flex/reviews
+    RUN Powered by ADP®: /products/adp-run/reviews
+    Cornerstone OnDemand: /products/cornerstone-ondemand/reviews
+    Oracle Fusion Cloud HCM: /products/oracle-fusion-cloud-hcm/reviews
+    UKG Ready: /products/ukg-ready/reviews
+    Gusto: /products/gusto/reviews
+    isolved: /products/isolved/reviews
+    Ascentis (discontinued): /products/ascentis/reviews
+    Namely: /products/namely/reviews
+    BQE CORE: /products/bqe-core/reviews
+    TriNet HR Platform: /products/trinet-hr-platform/reviews
+    BambooHR: /products/bamboohr/reviews
+    Workday HCM: /products/workday-hcm/reviews
+    Oracle PeopleSoft HCM: /products/oracle-peoplesoft/reviews
+    ADP Vantage HCM: /products/adp-vantage-hcm/reviews
+    Hibob: /products/hibob/reviews
+Help Desk Software:
+    NinjaOne: /products/ninjaone/reviews
+    Intercom: /products/intercom/reviews
+    SAP Service Cloud: /products/sap-service-cloud/reviews
+    Freshdesk: /products/freshdesk/reviews
+    Desk.com (discontinued): /products/desk-com/reviews
+    Intercom: /products/intercom/reviews
+    Freshdesk: /products/freshdesk/reviews
+    SysAid: /products/sysaid/reviews
+    Zendesk Suite: /products/zendesk-support-suite/reviews
+    LiveAgent: /products/liveagent/reviews
+    ConnectWise PSA: /products/connectwise-psa/reviews
+    Gist: /products/gist/reviews
+    GoTo Resolve: /products/goto-resolve/reviews
+    Oracle Fusion Service: /products/oracle-fusion-service/reviews
+    Spiceworks Help Desk: /products/spiceworks-help-desk/reviews
+    Jira Service Management: /products/jira-service-management/reviews
+    Salesforce Service Cloud: /products/salesforce-service-cloud/reviews
+    SAP Service Cloud: /products/sap-service-cloud/reviews
+    TeamSupport: /products/teamsupport/reviews
+    NinjaOne: /products/ninjaone/reviews
+    Kustomer: /products/kustomer/reviews
+    Desk.com (discontinued): /products/desk-com/reviews
+    Front: /products/front/reviews
+    Sprinklr Service: /products/sprinklr-service/reviews
+    Kayako: /products/kayako/reviews
+    Zoho Desk: /products/zoho-desk/reviews
+    SolarWinds Web Help Desk (WHD): /products/solarwinds-web-help-desk/reviews
+    Help Scout: /products/help-scout/reviews
+    Brand Embassy (discontinued): /products/brand-embassy/reviews
+    HubSpot Service Hub: /products/hubspot-service-hub/reviews
+Integration Platform as a Service (iPaaS) Software:
+    SAP Integration Suite: /products/sap-integration-suite/reviews
+    TIBCO Integration (including BusinessWorks and Flogo): /products/tibco-cloud-integration/reviews
+    TIBCO Integration (including BusinessWorks and Flogo): /products/tibco-cloud-integration/reviews
+    SAP Integration Suite: /products/sap-integration-suite/reviews
+    Zapier: /products/zapier/reviews
+    Boomi: /products/boomi/reviews
+    Workato: /products/workato/reviews
+    IFTTT: /products/ifttt/reviews
+    Oracle Integration (OIC): /products/oracle-integration/reviews
+    SnapLogic: /products/snaplogic/reviews
+    Jitterbit: /products/jitterbit/reviews
+    Anypoint Platform: /products/mulesoft-anypoint-platform/reviews
+    Informatica Intelligent Cloud Integration Services: /products/informatica-intelligent-cloud-integration-services/reviews
+    Azure Logic Apps: /products/azure-logic-apps/reviews
+    UiPath Integration Service: /products/uipath-integration-service/reviews
+    Automate.io: /products/automate-io/reviews
+    IBM App Connect: /products/ibm-app-connect/reviews
+    Flowgear: /products/flowgear/reviews
+    Zendesk Sunshine Conversations: /products/zendesk-sunshine-conversations/reviews
+    Cleo Integration Cloud: /products/cleo-integration-cloud/reviews
+    Ellucian Ethos: /products/ellucian-ethos/reviews
+    Adeptia Connect: /products/adeptia-connect/reviews
+    Celigo: /products/celigo/reviews
+    Make: /products/celonis-make/reviews
+    elastic.io Integration Platform: /products/elastic-io-integration-platform/reviews
+    HCL DataConnect: /products/hcl-dataconnect/reviews
+    eZintegrations: /products/ezintegrations/reviews
+Marketing Automation Software:
+    Printfection: /products/printfection/reviews
+    Klaviyo: /products/klaviyo/reviews
+    monday marketer: /products/monday-marketer/reviews
+    Iterable: /products/iterable/reviews
+    Constant Contact Lead Gen & CRM: /products/constant-contact-lead-gen-crm/reviews
+    Adobe Marketo Engage: /products/marketo-engage/reviews
+    ActiveCampaign: /products/activecampaign/reviews
+    HubSpot Marketing Hub: /products/hubspot-marketing-hub/reviews
+    Constant Contact Lead Gen & CRM: /products/constant-contact-lead-gen-crm/reviews
+    Mailchimp: /products/mailchimp/reviews
+    Salesforce Marketing Cloud: /products/salesforce-marketing-cloud/reviews
+    Oracle Marketing: /products/oracle-marketing/reviews
+    Act-On: /products/act-on/reviews
+    Keap: /products/keap/reviews
+    Bloomreach Commerce Experience Cloud: /products/bloomreach-commerce-experience-cloud/reviews
+    Constant Contact: /products/constant-contact/reviews
+    Adobe Campaign: /products/adobe-campaign/reviews
+    Klaviyo: /products/klaviyo/reviews
+    Printfection: /products/printfection/reviews
+    Iterable: /products/iterable/reviews
+    OutboundEngine: /products/outboundengine/reviews
+    Twilio SendGrid: /products/twilio-sendgrid/reviews
+    monday marketer: /products/monday-marketer/reviews
+    Acoustic Campaign: /products/acoustic-campaign/reviews
+    AWeber: /products/aweber/reviews
+    PFL Direct Mail Platform: /products/pfl-direct-mail-platform/reviews
+    BenchmarkONE: /products/benchmarkone/reviews
+    SALESmanago: /products/salesmanago/reviews
+    Oracle CRM On Demand: /products/oracle-crm-on-demand/reviews
+    Net-Results: /products/net-results/reviews
+Network Performance Monitoring Tools:
+    NinjaOne: /products/ninjaone/reviews
+    ThousandEyes: /products/thousandeyes/reviews
+    ManageEngine OpManager: /products/manage-engine/reviews
+    Splunk Infrastructure Monitoring: /products/splunk-infrastructure-monitoring/reviews
+    LogicMonitor: /products/logicmonitor/reviews
+    SolarWinds NPM: /products/solarwinds-network-performance-monitor/reviews
+    LogicMonitor: /products/logicmonitor/reviews
+    Auvik: /products/auvik/reviews
+    ThousandEyes: /products/thousandeyes/reviews
+    SolarWinds NetFlow Traffic Analyzer (NTA): /products/solarwinds-netflow-traffic-analyzer/reviews
+    PRTG: /products/prtg-network-monitor/reviews
+    Nagios Core: /products/nagios-core/reviews
+    NinjaOne: /products/ninjaone/reviews
+    ManageEngine OpManager: /products/manage-engine/reviews
+    Zabbix: /products/zabbix/reviews
+    SolarWinds ipMonitor: /products/ipmonitor/reviews
+    Splunk Infrastructure Monitoring: /products/splunk-infrastructure-monitoring/reviews
+    PingPlotter: /products/pingplotter/reviews
+    Nmap: /products/nmap/reviews
+    Progress WhatsUp Gold: /products/progress-whatsup-gold/reviews
+    Intermapper: /products/intermapper/reviews
+    Icinga: /products/icinga/reviews
+    NETSCOUT nGeniusONE: /products/netscout-ngeniusone/reviews
+    Preseem: /products/preseem/reviews
+    HPE Intelligent Management Center (IMC): /products/hpe-intelligent-management-center-imc/reviews
+    Foglight: /products/foglight/reviews
+    TotalView: /products/totalview/reviews
+    Azure Network Watcher: /products/azure-network-watcher/reviews
+    Elastic Observability: /products/elastic-observability/reviews
+    Predictive UC Analytics: /products/telemate-predictive-uc-analytics/reviews
+Payroll Software:
+    MIP Fund Accounting: /products/mip-fund-accounting/reviews
+    Rippling: /products/rippling/reviews
+    RUN Powered by ADP®: /products/adp-run/reviews
+    UKG Ready: /products/ukg-ready/reviews
+    OnPay: /products/onpay/reviews
+    ADP Workforce Now: /products/adp-workforce-now/reviews
+    UKG Pro: /products/ukg-pro/reviews
+    Paylocity: /products/paylocity/reviews
+    TriNet: /products/trinet/reviews
+    Rippling: /products/rippling/reviews
+    Dayforce: /products/dayforce/reviews
+    MIP Fund Accounting: /products/mip-fund-accounting/reviews
+    Paycom: /products/paycom/reviews
+    Paycor: /products/paycor/reviews
+    Paychex Flex: /products/paychex-flex/reviews
+    RUN Powered by ADP®: /products/adp-run/reviews
+    Oracle Fusion Cloud HCM: /products/oracle-fusion-cloud-hcm/reviews
+    UKG Ready: /products/ukg-ready/reviews
+    Gusto: /products/gusto/reviews
+    isolved: /products/isolved/reviews
+    Ascentis (discontinued): /products/ascentis/reviews
+    QuickBooks Online: /products/quickbooks-online/reviews
+    Namely: /products/namely/reviews
+    TriNet HR Platform: /products/trinet-hr-platform/reviews
+    QuickBooks Desktop Pro: /products/quickbooks-desktop-pro/reviews
+    BambooHR: /products/bamboohr/reviews
+    Workday HCM: /products/workday-hcm/reviews
+    Oracle PeopleSoft HCM: /products/oracle-peoplesoft/reviews
+    ADP Vantage HCM: /products/adp-vantage-hcm/reviews
+    QuickBooks Desktop Premier: /products/quickbooks-desktop-premier/reviews
+Project Management Software:
+    Quickbase: /products/quick-base/reviews
+    ClickUp: /products/clickup/reviews
+    BQE CORE: /products/bqe-core/reviews
+    monday.com: /products/monday/reviews
+    Asana: /products/asana/reviews
+    Miro: /products/miro/reviews
+    monday.com: /products/monday/reviews
+    Wrike: /products/wrike/reviews
+    ClickUp: /products/clickup/reviews
+    Quickbase: /products/quick-base/reviews
+    Adobe Workfront: /products/adobe-workfront/reviews
+    Airtable: /products/airtable/reviews
+    Trello: /products/trello/reviews
+    Prophix: /products/prophix/reviews
+    MindManager: /products/mindmanager/reviews
+    Asana: /products/asana/reviews
+    Planview ProjectPlace: /products/projectplace/reviews
+    Jira Software: /products/jira-software/reviews
+    Basecamp: /products/basecamp/reviews
+    BQE CORE: /products/bqe-core/reviews
+    Smartsheet: /products/smartsheet/reviews
+    Jotform: /products/jotform/reviews
+    CMiC Construction Platform: /products/cmic-construction-platform/reviews
+    ConnectWise PSA: /products/connectwise-psa/reviews
+    Microsoft Project: /products/microsoft-project/reviews
+    Planview Portfolios: /products/planview-portfolios/reviews
+    Teamwork.com: /products/teamwork/reviews
+    Todoist: /products/todoist/reviews
+    Microsoft To Do: /products/microsoft-to-do/reviews
+    Viewpoint Spectrum: /products/viewpoint-spectrum/reviews
+SEO Software:
+    Conductor: /products/conductor/reviews
+    Semrush: /products/semrush/reviews
+    Similarweb: /products/similarweb-pro/reviews
+    Google Ads: /products/google-ads/reviews
+    SpyFu: /products/spyfu/reviews
+    Conductor: /products/conductor/reviews
+    Act-On: /products/act-on/reviews
+    Semrush: /products/semrush/reviews
+    Similarweb: /products/similarweb-pro/reviews
+    Google Ads: /products/google-ads/reviews
+    BrightEdge: /products/brightedge/reviews
+    Moz Pro: /products/moz-pro/reviews
+    Ahrefs: /products/ahrefs/reviews
+    SpyFu: /products/spyfu/reviews
+    Yoast: /products/yoast-com/reviews
+    Screaming Frog: /products/screaming-frog-seo-spider/reviews
+    Google Search Console: /products/google-search-console/reviews
+    Google Trends: /products/google-trends/reviews
+    RavenTools: /products/raventools/reviews
+    Majestic SEO: /products/majestic-seo/reviews
+    WebCEO: /products/web-ceo/reviews
+    BuzzStream: /products/buzzstream/reviews
+    Crownpeak Digital Accessibility and Quality: /products/crownpeak-digital-accessibility-and-quality/reviews
+    SEO PowerSuite: /products/seo-powersuite/reviews
+    Nozzle: /products/nozzle/reviews
+    Siteimprove: /products/siteimprove/reviews
+    SE Ranking: /products/se-ranking/reviews
+    Agency Analytics: /products/agency-analytics/reviews
+    ContentKing: /products/contentking/reviews
+    Dupli Checker (DupliChecker.com): /products/dupli-checker-duplichecker-com/reviews
+Social Media Management Tools:
+    Zoho Social: /products/zoho-social/reviews
+    monday marketer: /products/monday-marketer/reviews
+    Constant Contact Lead Gen & CRM: /products/constant-contact-lead-gen-crm/reviews
+    Hootsuite: /products/hootsuite/reviews
+    Khoros Marketing: /products/khoros-marketing-spredfast/reviews
+    Wrike: /products/wrike/reviews
+    Constant Contact Lead Gen & CRM: /products/constant-contact-lead-gen-crm/reviews
+    Hootsuite: /products/hootsuite/reviews
+    Zoho Social: /products/zoho-social/reviews
+    Agorapulse: /products/agorapulse/reviews
+    Khoros Marketing: /products/khoros-marketing-spredfast/reviews
+    Birdeye: /products/birdeye/reviews
+    Sprout Social: /products/sprout-social/reviews
+    Meta Business Suite: /products/meta-business-suite/reviews
+    Buffer: /products/buffer/reviews
+    Sprinklr Social: /products/sprinklr-social/reviews
+    Emplifi Social Marketing Cloud: /products/emplifi-social-marketing-cloud/reviews
+    Meltwater: /products/meltwater/reviews
+    Brandwatch: /products/brandwatch-listen/reviews
+    Salesforce Marketing Cloud Social Studio (retiring): /products/salesforce-social-studio/reviews
+    Meta Business Manager: /products/meta-business-manager/reviews
+    monday marketer: /products/monday-marketer/reviews
+    Social Suite by Reputation.com: /products/reputation-com-social-suite/reviews
+    Shoutlet (Discontinued): /products/shoutlet/reviews
+    Adobe Social: /products/adobe-social/reviews
+    SE Ranking: /products/se-ranking/reviews
+    Sendible: /products/sendible/reviews
+    Later Social: /products/later-social/reviews
+    Viralheat (Discontinued): /products/viralheat/reviews
+    Cool Tabs: /products/cool-tabs/reviews
+Survey & Forms Building Tools:
+    Jotform: /products/jotform/reviews
+    Hotjar: /products/hotjar/reviews
+    Mailchimp: /products/mailchimp/reviews
+    Mailchimp: /products/mailchimp/reviews
+    Act-On: /products/act-on/reviews
+    Qualtrics: /products/qualtrics-xm-for-strategy-and-research/reviews
+    Jotform: /products/jotform/reviews
+    Google Forms: /products/google-forms/reviews
+    SurveyMonkey: /products/surveymonkey/reviews
+    Hotjar: /products/hotjar/reviews
+    Formstack Forms: /products/formstack-forms/reviews
+    Wufoo: /products/wufoo/reviews
+    Predictive Index Behavioral Assessment: /products/predictive-index-behavioral-assessment/reviews
+    Typeform: /products/typeform/reviews
+    Square 9 Softworks: /products/square-9-softworks/reviews
+    Sogolytics: /products/sogolytics/reviews
+    Clicktools: /products/clicktools/reviews
+    Pointerpro: /products/pointerpro/reviews
+    AskNicely: /products/asknicely/reviews
+    PG Forsta HX Platform: /products/pg-forsta-hx-platform/reviews
+    Medallia: /products/medallia/reviews
+    Qualaroo: /products/qualaroo-insights/reviews
+    Alchemer: /products/alchemer/reviews
+    FormAssembly: /products/formassembly/reviews
+    Google Surveys: /products/google-surveys/reviews
+    Cvent Surveys: /products/cvent-surveys/reviews
+    Quantum Workplace Engagement Surveys and Pulses: /products/quantum-workplace-engagement/reviews
+    QuestionPro: /products/questionpro/reviews
+Talent Intelligence Tools and Solutions:
+    Indeed Resume: /products/indeed-resume/reviews
+    SeekOut: /products/seekout/reviews
+    SeekOut: /products/seekout/reviews
+    iCIMS: /products/icims/reviews
+    Handshake Talent Engagement Suite: /products/handshake/reviews
+    hireEZ: /products/hireez/reviews
+    Indeed Resume: /products/indeed-resume/reviews
+    LinkedIn Talent Solutions: /products/linkedIn-talent-solutions/reviews
+    Entelo: /products/entelo/reviews
+    Eightfold: /products/eightfold/reviews
+    RippleMatch: /products/ripplematch/reviews
+    TurboHire: /products/turbohire/reviews
+    Fetcher: /products/fetcher/reviews
+    AmplifAI: /products/amplifai/reviews
+    Humantelligence: /products/humantelligence-humanintelligence/reviews
+    Datapeople: /products/datapeopleio/reviews
+    Phenom TXM: /products/phenom-talent-experience-management-txm-platform/reviews
+    Beamery: /products/beamery/reviews
+    Draup for Talent: /products/draup-for-talent/reviews
+    TalentPulse: /products/accendo-technologies-talentpulse/reviews
+    Ascendify: /products/ascendify/reviews
+    Loxo Recruitment Platform: /products/loxo-recruitment/reviews
+    ENGAGE Talent: A Workforce Logiq Company: /products/engage-talent-a-workforce-logiq-company/reviews
+    Levee: /products/levee/reviews
+    CareerBulder Talent Discovery Platform: /products/careerbulder-talent-discovery-platform/reviews
+    Talentwize: /products/talentwize/reviews
+    X0PA AI Recruiter: /products/x0pa-ai-recruiter/reviews
+Talent Management Software:
+    Cornerstone OnDemand: /products/cornerstone-ondemand/reviews
+    SAP SuccessFactors: /products/sap-successfactors/reviews
+    ADP Workforce Now: /products/adp-workforce-now/reviews
+    UKG Pro: /products/ukg-pro/reviews
+    Paylocity: /products/paylocity/reviews
+    ADP Workforce Now: /products/adp-workforce-now/reviews
+    UKG Pro: /products/ukg-pro/reviews
+    Paylocity: /products/paylocity/reviews
+    Dayforce: /products/dayforce/reviews
+    SAP SuccessFactors: /products/sap-successfactors/reviews
+    Paycom: /products/paycom/reviews
+    Paycor: /products/paycor/reviews
+    Cornerstone OnDemand: /products/cornerstone-ondemand/reviews
+    Oracle Fusion Cloud HCM: /products/oracle-fusion-cloud-hcm/reviews
+    Ascentis (discontinued): /products/ascentis/reviews
+    iCIMS: /products/icims/reviews
+    Workday HCM: /products/workday-hcm/reviews
+    Saba TalentSpace: /products/saba-talentspace/reviews
+    Saba Cloud: /products/saba/reviews
+    PeopleFluent: /products/peoplefluent/reviews
+    ClearCompany: /products/clearcompany/reviews
+    PeopleAdmin Higher Ed Platform, from Powerschool: /products/peopleadmin/reviews
+    TalentReef: /products/talentreef/reviews
+    Deltek Talent Management: /products/deltek-talent-management/reviews
+    symplr Talent Management Solutions: /products/symplr-talent-management-solutions/reviews
+    SumTotal Talent Development: /products/sumtotal-talent-development/reviews
+    Lumesse (Discontinued): /products/lumesse/reviews
+    EPAY Systems: /products/epay-systems/reviews
+    SilkRoad Life Suite: /products/silkroad-life-suite/reviews
+    ADP Enterprise HR: /products/adp-enterprise-hr/reviews
+Web Analytics Tools:
+Web and Video Conferencing Software:
+Workforce Analytics Software:
+Workforce Management Software:
