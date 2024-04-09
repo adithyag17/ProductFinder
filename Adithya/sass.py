@@ -39,7 +39,7 @@ for urls, nums in category_info.items():
         modified_url = f'https://www.saasworthy.com{urls}?page={i}'
         b = browser.open(modified_url)
         prodpage = browser.get_current_page()
-        if prodpage:
+        if prodpage :
             try:
                 products = prodpage.find_all('h2', class_='font-l f-w-bolder blue d-inline-blk m-t-0 m-b-5')
                 allprod.append(products)
