@@ -6,7 +6,7 @@ pipeline {
     }
 
     stages {
-        stage('Checkout SCM') {
+        stage('Checkout SCM'){
             steps {
                 git branch: 'main', url: 'https://github.com/adithyag17/ProductFinder'
                 // Replace 'main' with your branch name if it's different
