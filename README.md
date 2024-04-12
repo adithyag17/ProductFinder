@@ -1,3 +1,5 @@
+NOTE: at the time of recording number of products scraped is less since the container was still running but when you check out the repo now you can clearly see more than thousands of products are scraped and verified as not found.
+
 # Product Finders Solution
 
 ## Problem Statement 1
@@ -7,7 +9,7 @@ This project is a solution for Problem Statement 1 of the G2 Internship Hackatho
 ## Technologies Used
 
 - **Python Libraries:** Scrapy, MechanicalSoup
-- **Automation:** Jenkins,ShellScript
+- **Automation:** Jenkins, ShellScript
 - **Containerization:** Docker
 
 ## Entrepreneurial Aspect
@@ -33,7 +35,6 @@ By dockerizing the scrapers and building their images, we ensure portability and
 ## Job Scheduling
 
 To tackle the problem of scheduling timely job runs, we have employed Jenkins as an industrially relevant server. Jenkins automates the process of running these scraper solutions at regular intervals, ensuring that our data remains up-to-date and relevant. Jobs are scheduled to run every week for consistent and reliable data collection.
-
 
 ## License
 
