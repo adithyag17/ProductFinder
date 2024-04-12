@@ -7,8 +7,7 @@ This project is a solution for Problem Statement 1 of the G2 Internship Hackatho
 ## Technologies Used
 
 - **Python Libraries:** Scrapy, MechanicalSoup
-- **Automation:** Jenkins
-- **Automation:**Shell Script
+- **Automation:** Jenkins,ShellScript
 - **Containerization:** Docker
 
 ## Entrepreneurial Aspect
