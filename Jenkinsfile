@@ -7,7 +7,7 @@ pipeline {
         stage('Build and Run Containers') {
             steps {
                 script {
-                    echo "running"
+                    sh 'docker ps'
                 }
             }
         }
