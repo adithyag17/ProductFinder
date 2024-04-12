@@ -8,6 +8,7 @@ This project is a solution for Problem Statement 1 of the G2 Internship Hackatho
 
 - **Python Libraries:** Scrapy, MechanicalSoup
 - **Automation:** Jenkins
+- - **Automation:**Shell Script
 - **Containerization:** Docker
 
 ## Entrepreneurial Aspect
