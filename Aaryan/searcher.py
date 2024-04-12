@@ -8,7 +8,7 @@ load_dotenv()
 
 # Function to make API call and check if product exists
 def check_product_exists(product_name):
-    secret_token = os.getenv("7953b7cc63eb7d28919ff63c333fde01fce0ab70ee6636126242b2c2d599b5df")
+    secret_token = os.getenv("SECRET_TOKEN")
     url = f"https://data.g2.com/api/v1/products/?filter[name]={product_name}"
     headers = {"Authorization": f"Bearer {secret_token}"}
     response = requests.get(url, headers=headers)
@@ -24,7 +24,7 @@ def check_product_exists(product_name):
 # Function to write product data to CSV
 def write_to_csv(product, csv_file):
     # Check if the file is empty to write headers
-    if os.path.getsize(csv_file) == 0:
+    if os.path.exists(csv_file) == 0:
         with open(csv_file, 'w', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
             writer.writerow(['ID', 'Name', 'Type', 'URL']) # Write header
@@ -36,7 +36,7 @@ def write_to_csv(product, csv_file):
 # Function to write not found products to CSV
 def write_not_found_to_csv(product_name, csv_file):
     # Check if the file is empty to write headers
-    if os.path.getsize(csv_file) == 0:
+    if os.path.exists(csv_file) == 0:
         with open(csv_file, 'w', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
             writer.writerow(['Product Name']) # Write header for not found products
@@ -48,7 +48,7 @@ def write_not_found_to_csv(product_name, csv_file):
 # Main script
 if __name__ == "__main__":
     # File containing product names
-    input_file = 'Aaryan\output.txt'
+    input_file = 'scraped_items.txt'
     # Output CSV file for found products
     output_file = 'products_found.csv'
     # Output CSV file for not found products

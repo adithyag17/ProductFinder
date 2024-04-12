@@ -3,7 +3,7 @@ import scrapy
 class MySpider(scrapy.Spider):
     name = 'myspider'
     start_urls = ['https://www.softwareadvice.com/categories/']
-    output_file = 'output.txt'  # Change output file extension to .txt
+    output_file = 'scraped_items.txt'  # Change output file extension to .txt
     parsed_data = set()
 
     def parse(self, response):

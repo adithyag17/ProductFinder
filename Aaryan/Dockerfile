@@ -1,11 +1,11 @@
-FROM python:3.11-slim 
+FROM python:3.11-slim
 
-WORKDIR /code 
+WORKDIR /code
 
 COPY requirements.txt /code/
 
-RUN pip install --no-cache-dir -r requirements.txt 
+RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["python3","final_scraper.py"]
+CMD ["sh", "run_scripts.sh"]

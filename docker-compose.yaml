@@ -5,7 +5,7 @@ services:
     build:
       context: ./Aaryan
       dockerfile: Dockerfile
-    image: scraper:3.0
+    image: scraper:4.0
     volumes:
       - ./Aaryan:/code
 
@@ -13,7 +13,7 @@ services:
     build:
       context: ./Adithya
       dockerfile: Dockerfile
-    image: scraper:3.0
+    image: scraper:4.0
     volumes:
       - ./Adithya:/code
 
@@ -21,6 +21,6 @@ services:
     build:
       context: ./Akshar
       dockerfile: Dockerfile
-    image: scraper:3.0
+    image: scraper:4.0
     volumes:
       - ./Akshar:/code
