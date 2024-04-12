@@ -2,7 +2,7 @@
 
 ## Problem Statement 1
 
-This project is a solution for Problem Statement 1 of the G2 Internship Hackathon. The goal is to create a product finder tool that helps users quickly locate products based on various criteria.
+This project is a solution for Problem Statement 1 of the G2 Internship Hackathon. The goal is to create a tool that helps users quickly scrape software products which are currently not in the g2 space.
 
 ## Technologies Used
 
@@ -24,7 +24,7 @@ We have scraped around 25 to 30 thousand product names from each competitor's we
 
 ## Solution Overview
 
-While our initial solution may seem brute-force due to the large volume of products being scraped, it offers exceptional accuracy. To make the solution lightweight and scalable, we have dockerized the three scrapers, creating separate lightweight containers for each competitor's data collection process.
+While our initial solution may seem brute-force due to the large volume of products being scraped, it offers exceptional accuracy. To make the solution lightweight and scalable, we have dockerized the three scrapers, creating separate lightweight containers for each competitor's data collection process which will in turn run the scrapers parallely.
 
 ## Dockerization
 
@@ -34,17 +34,6 @@ By dockerizing the scrapers and building their images, we ensure portability and
 
 To tackle the problem of scheduling timely job runs, we have employed Jenkins as an industrially relevant server. Jenkins automates the process of running these scraper solutions at regular intervals, ensuring that our data remains up-to-date and relevant. Jobs are scheduled to run every week for consistent and reliable data collection.
 
-## Getting Started
-
-1. Clone the repository: `git clone https://github.com/your-username/product-finders.git`
-2. Install Docker and Jenkins on your system.
-3. Build Docker images for each scraper: `docker build -t scraper1 .`, `docker build -t scraper2 .`, `docker build -t scraper3 .`
-4. Run Docker containers for each scraper: `docker run -d scraper1`, `docker run -d scraper2`, `docker run -d scraper3`
-5. Configure Jenkins to schedule and run the scraper jobs as needed.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Be sure to follow the project's coding style and guidelines.
 
 ## License
 
