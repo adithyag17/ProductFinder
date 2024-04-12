@@ -1,18 +1,20 @@
 pipeline {
-    agent any
-
-    triggers {
-        cron('H H * * 1') // This schedules the pipeline to run every Monday at 00:00. Adjust the cron expression as needed.
-    }
-
+    agent none
     stages {
-        
-
-        stage('Build and Run Containers') {
+        stage('Back-end') {
+            agent {
+                docker { image 'maven:3.9.6-eclipse-temurin-17-alpine' }
+            }
             steps {
-                script {
-                    sh 'docker-compose up -d'
-                }
+                sh 'mvn --version'
+            }
+        }
+        stage('Front-end') {
+            agent {
+                docker { image 'node:20.11.1-alpine3.19' }
+            }
+            steps {
+                sh 'node --version'
             }
         }
     }
