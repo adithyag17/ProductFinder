@@ -35,7 +35,7 @@ def write_not_found_to_csv(product_name, csv_file):
 # Main script
 if __name__ == "__main__":
     # File containing product names
-    input_file = 'sass_results.txt'
+    input_file = 'scraped_items.txt'
     # Output CSV file for found products
     output_file = 'products_found.csv'
     # Output CSV file for not found products

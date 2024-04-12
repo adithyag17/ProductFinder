@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["python3","final_scraper.py"]
+CMD ["python3","searcher.py"]

@@ -1,28 +1,26 @@
 version: "3.8"
 
 services:
-
   scraper-1:
-    build: 
-        context: ./Aaryan
-        dockerfile: Dockerfile
-    image: scraper:1.0
+    build:
+      context: ./Aaryan
+      dockerfile: Dockerfile
+    image: scraper:3.0
     volumes:
-    - ./Aaryan:/code
+      - ./Aaryan:/code
 
   scraper-2:
-    build: 
-        context: ./Adithya
-        dockerfile: Dockerfile
-    image: scraper:1.0
+    build:
+      context: ./Adithya
+      dockerfile: Dockerfile
+    image: scraper:3.0
     volumes:
-    - ./Adithya:/code
+      - ./Adithya:/code
 
   scraper-3:
-    build: 
-        context: ./Akshar
-        dockerfile: Dockerfile
-    image: scraper:1.0
+    build:
+      context: ./Akshar
+      dockerfile: Dockerfile
+    image: scraper:3.0
     volumes:
-    - ./Akshar:/code
-
+      - ./Akshar:/code

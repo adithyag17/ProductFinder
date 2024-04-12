@@ -43,7 +43,7 @@ for urls, nums in category_info.items():
             try:
                 products = prodpage.find_all('a', class_='decor-none blue')
                 allprod.append(products)
-                with open("sass_results.txt", "w",encoding="utf-8") as file:
+                with open("scraped_items.txt", "w",encoding="utf-8") as file:
                     for products_list in allprod:
                         for product in products_list:
                             extracted_word = product.text.split("What is")[1].strip()
